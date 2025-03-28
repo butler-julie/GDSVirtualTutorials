@@ -1,4 +1,4 @@
-# GDSVirtualSeminars
+# GDS Virtual Tutorials
 Material for the GDS Virtual Tutorial Series
 
 ## Order by Date
