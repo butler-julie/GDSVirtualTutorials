@@ -47,7 +47,7 @@ Resources
 * Prerequisites
      - [base `R`](https://R-project.org)
      - [`RStudio`](https://posit.co/download/rstudio-desktop/)
-     - [appropriate `R` packages](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+     - [appropriate `R` packages](https://cran.r-project.org/web/packages/available_packages_by_name.html), e.g., [TCIU package](https://cran.r-project.org/web/packages/TCIU/index.html)
 * Test Data
      - [Test sMRI 3D data (nii.gz)](http://socr.umich.edu/HTML5/BrainViewer/data/TestBrain.nii.gz)
      - [Test 4D fMRI data (nii.gz)](http://socr.umich.edu/HTML5/BrainViewer/data/fMRI_FilteredData_4D.nii.gz)
