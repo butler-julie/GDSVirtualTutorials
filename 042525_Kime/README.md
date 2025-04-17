@@ -52,7 +52,7 @@ Resources
      - [Test sMRI 3D data (nii.gz)](http://socr.umich.edu/HTML5/BrainViewer/data/TestBrain.nii.gz)
      - [Test 4D fMRI data (nii.gz)](http://socr.umich.edu/HTML5/BrainViewer/data/fMRI_FilteredData_4D.nii.gz)
      - [Test PET 3D data (nii.gz)](http://socr.umich.edu/HTML5/BrainViewer/data/PET_FDG_3D_vol.nii.gz)
-* [https://socr.umich.edu/HTML5/BrainViewer/ SOCR BrainViewer)
+* [SOCR BrainViewer](https://socr.umich.edu/HTML5/BrainViewer/) (for 3D nii and nii.gz volumes)
 * [Book: Data Science - Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://doi.org/10.1515/9783110697827) and [Spacekime/TCIU website](https://www.socr.umich.edu/TCIU/)
 * Electronic `R` Markdown Notebook (Rmd)
     - [HTML: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
