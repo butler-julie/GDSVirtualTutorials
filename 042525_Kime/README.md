@@ -44,6 +44,10 @@ This interactive tutorial will present hands-on the core elements of spacekime a
 Resources
 =========
 
+* Prerequisites
+     - [base `R`](https://R-project.org)
+     - [`RStudio`](https://posit.co/download/rstudio-desktop/)
+     - [appropriate `R` packages](https://cran.r-project.org/web/packages/available_packages_by_name.html)
 * [Book: Data Science - Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://doi.org/10.1515/9783110697827) and [Spacekime/TCIU website](https://www.socr.umich.edu/TCIU/)
 * Electronic `R` Markdown Notebook (Rmd)
     - [HTML: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
