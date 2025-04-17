@@ -32,10 +32,8 @@ Abstract
 Content
 =======
 This interactive tutorial will present hands-on the core elements of spacekime analytics. These include
-         This interactive tutorial will present hands-on the core elements of spacekime analytics. These include
    
-        This interactive tutorial will present hands-on the core elements of spacekime analytics. These include:
-         - Importing of repeated measurement longitudinal data,
+        - Importing of repeated measurement longitudinal data,
         - Numeric (stitching) and analytic (Laplace) kimesurface reconstruction from time-series data,
         - Forward prediction modeling extrapolating the process behavior beyond the observed time-span [0,T],
         - Group comparison discrimination between cohorts based on the structure and properties of their corresponding kimesurfaces. For instance, statistically quantify the differences between two or more groups,
