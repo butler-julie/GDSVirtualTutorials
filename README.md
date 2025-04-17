@@ -13,6 +13,9 @@ Table of contents
    * [Order by Date](#order-by-date)
        1. [2025](#2025)
    * [Order by Topic](#order-by-topic)
+       1. [Introductory](#introductory)
+       2. [Intermediate](#intermediate)
+       3. [Advanced](#advanced)
    * [Resources](#resources)
 <!--te-->
 
@@ -44,20 +47,21 @@ A hands-on tutorial on complex-time (kime) representation, statistical inference
 Order by Topic
 ==============
 
-## Introductory
+# Introductory
 
-### [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
+## [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
 An introduction to the command line tools awk and sed for data analysis.
 
-### [Introduction to Data Science](032825_IntroToDS/README.md)
+## [Introduction to Data Science](032825_IntroToDS/README.md)
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
-## Intermediate
+# Intermediate
 
-### [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
+## [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
 A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems.
 
-## Advanced
+# Advanced
+## ...
 
 Resources
 =========
