@@ -11,6 +11,7 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Overview](#overview)
    * [Order by Date](#order-by-date)
+       1. [2025](#2025)
    * [Order by Topic](#order-by-topic)
    * [Resources](#resources)
 <!--te-->
@@ -30,6 +31,7 @@ If you are interested in joining the mailing list to receive updates for these s
 Order by Date
 =============
 
+# 2025
 ## March 28, 2025: [Introduction to Data Science](032825_IntroToDS/README.md)
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
