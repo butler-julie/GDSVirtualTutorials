@@ -10,8 +10,8 @@ Table of contents
 <!--ts-->
    * [Table of contents](#table-of-contents)
    * [Overview](#overview)
-   * [Order by Date](#order_by_date)
-   * [Order by Topic](#order_by_topic)
+   * [Order by Date](#order-by-date)
+   * [Order by Topic](#order-by-topic)
    * [Resources](#resources)
 <!--te-->
 
