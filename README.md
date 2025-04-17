@@ -1,23 +1,63 @@
 # GDS Virtual Tutorials
-Material for the GDS Virtual Tutorial Series
 
-## Order by Date
-### March 28, 2025: [Introduction to Data Science](032825_IntroToDS/README.md)
+**[APS Group on Data Science (GDS)](https://engage.aps.org/gds/home) - Virtual Tutorial Webinar Series**
+
+<a href="https://engage.aps.org/gds/home"><img align="right" width="400" src="https://raw.githubusercontent.com/butler-julie/GDSVirtualTutorials/master/html/APS_GDS_WebinarSeries.png"></a>
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Order by Date](#order_by_date)
+   * [Order by Date](#order_by_date)
+   * [Order by Topic](#order_by_topic)
+   * [Resources](#resources)
+<!--te-->
+
+Overview
+========
+
+As GDS GDS virtual tutorial series covers a wide range of topics from data science to machine learning to artificial intelligence, physical data science problems, neural networks, APIs, and large language models.
+
+The tutorials are 60-90-minute sessions involving an explanation of the topic and a code demonstration that attendees can follow along with.
+
+Suggestions for topics and speaker nominations can be sent to the GDS Secretary, Julie Butler, at butlerju@mountunion.edu.
+
+If you are interested in joining the mailing list to receive updates for these seminars, please [fill out this form](https://info.aps.org/e/640833/t-vfkFXVvQWNus/2syd9q/1463585955/h/ue3TMDDPUGK0ltWq7s4GLACXvBgcNK6HJn2MM8L97cQ).
+
+ 
+Order by Date
+=============
+
+## March 28, 2025: [Introduction to Data Science](032825_IntroToDS/README.md)
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
-### April 11, 2025: [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
+## April 11, 2025: [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
 An introduction to the command line tools awk and sed for data analysis.
 
-## Order by Topic
+## April 25, 2025: [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
+A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems.
 
-### Introductory
+Order by Topic
+==============
 
-#### [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
+## Introductory
+
+### [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
 An introduction to the command line tools awk and sed for data analysis.
 
-#### [Introduction to Data Science](032825_IntroToDS/README.md)
+### [Introduction to Data Science](032825_IntroToDS/README.md)
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
-### Intermediate
+## Intermediate
 
-### Advanced
+### [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
+A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems.
+
+## Advanced
+
+Resources
+=========
+
+* [APS Group on Data Science (GDS)](https://engage.aps.org/gds/home)
