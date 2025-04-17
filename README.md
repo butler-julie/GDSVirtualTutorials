@@ -2,7 +2,7 @@
 
 **[APS Group on Data Science (GDS)](https://engage.aps.org/gds/home) - Virtual Tutorial Webinar Series**
 
-<a href="https://engage.aps.org/gds/home"><img align="right" width="400" src="https://raw.githubusercontent.com/butler-julie/GDSVirtualTutorials/master/html/APS_GDS_WebinarSeries.png"></a>
+<a href="https://engage.aps.org/gds/home"><img align="right" width="400" src="https://github.com/butler-julie/GDSVirtualTutorials/blob/main/APS_GDS_WebinarSeries.png?raw=true"></a>
 
 Table of contents
 =================
