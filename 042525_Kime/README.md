@@ -19,7 +19,7 @@ Table of contents
 Overview
 ========
 
-* *Date*: April 25, 2025 11:30 AM US ET
+* *Date*: April 25, 2025, 11:30 AM US ET
 * *Presenter*: [https://www.socr.umich.edu/people/dinov/ Ivo D. Dinov (University of Michigan)], co-author Yueyang Shen (Michigan)
 * *Title*: Complex-time (kime) Representation, Statistical Inference, and AI prediction using Repeated Measurement Longitudinal Data
 * [Register here to get the ZM link sent to your email](https://apsphysics.zoom.us/meeting/register/tkp5ZTRtRFeJNQNgTgO_1A)
@@ -27,7 +27,7 @@ Overview
 Abstract
 ========
 
-    Complex-time (kime) representation of repeated measurement longitudinal processes paves the way for advanced spacekime statistical inference and artificial intelligence (AI) applications. Extending time into the complex plane offers a unified framework connecting fundamental quantum mechanics principles, statistical dynamics, and machine learning. Kime representation enhances both model-based statistical inference techniques – utilizing classical probability distributions – and model-free AI prediction and classification algorithms – relying on data and generalized functions. Many open mathematical-physics problems emerge from this formulation, including definition and interpretation of a consistent spacekime-metric tensor and classification of alternative time-series to kime-surfaces transformations. Simulations and observed neuroimaging data demonstrate the utility of complex-time representation and the induced spacekime analytics. These methods enable forward prediction by extrapolating processes beyond their observed timespan and facilitate group comparisons based on corresponding kime surfaces. Additionally, they allow for statistical quantification of differences between experimental groups and conditions, support topological kime surface analysis, and enhance AI prediction for repeated measurement longitudinal data.
+Complex-time (kime) representation of repeated measurement longitudinal processes paves the way for advanced spacekime statistical inference and artificial intelligence (AI) applications. Extending time into the complex plane offers a unified framework connecting fundamental quantum mechanics principles, statistical dynamics, and machine learning. Kime representation enhances both model-based statistical inference techniques – utilizing classical probability distributions – and model-free AI prediction and classification algorithms – relying on data and generalized functions. Many open mathematical-physics problems emerge from this formulation, including definition and interpretation of a consistent spacekime-metric tensor and classification of alternative time-series to kime-surfaces transformations. Simulations and observed neuroimaging data demonstrate the utility of complex-time representation and the induced spacekime analytics. These methods enable forward prediction by extrapolating processes beyond their observed timespan and facilitate group comparisons based on corresponding kime surfaces. Additionally, they allow for statistical quantification of differences between experimental groups and conditions, support topological kime surface analysis, and enhance AI prediction for repeated measurement longitudinal data.
 
 Content
 =======
@@ -55,4 +55,4 @@ Appendix
 * [APS Group on Data Science (GDS)](https://engage.aps.org/gds/home)
 * [GDS Tutorial Series](https://github.com/butler-julie/GDSVirtualTutorials)
 
-<a href="[https://engage.aps.org/gds/home](https://wiki.socr.umich.edu/index.php/SOCR_APS_GDS_VTS_SK_2025)"><img align="right" width="400" src="https://github.com/butler-julie/GDSVirtualTutorials/blob/main/042525_Kime/ComplexValued_KimeIndexed_Kimesurface.gif?raw=true"></a>
+<a href="[https://engage.aps.org/gds/home](https://wiki.socr.umich.edu/index.php/SOCR_APS_GDS_VTS_SK_2025)"><img align="center" width="400" src="https://github.com/butler-julie/GDSVirtualTutorials/blob/main/042525_Kime/ComplexValued_KimeIndexed_Kimesurface.gif?raw=true"></a>
