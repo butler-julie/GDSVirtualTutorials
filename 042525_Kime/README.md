@@ -46,10 +46,10 @@ This interactive tutorial will present hands-on the core elements of spacekime a
 Resources
 =========
 
-    [Book: Data Science - Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://doi.org/10.1515/9783110697827) and [Spacekime/TCIU website](https://www.socr.umich.edu/TCIU/)
-    [TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
-    [Strategies for Mapping Repeated Measurement Longitudinal Data (Time-series) to 2D Manifolds (Kimesurfaces)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_MappingLongitudinalTimeseries_2_Kimesurfaces.html)
-    [The Kime-Phase Problem and Kime-Phase Tomography (KPT)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter3_Kime_Phase_Problem.html)
+* [Book: Data Science - Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://doi.org/10.1515/9783110697827) and [Spacekime/TCIU website](https://www.socr.umich.edu/TCIU/)
+* [TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
+* [Strategies for Mapping Repeated Measurement Longitudinal Data (Time-series) to 2D Manifolds (Kimesurfaces)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_MappingLongitudinalTimeseries_2_Kimesurfaces.html)
+* [The Kime-Phase Problem and Kime-Phase Tomography (KPT)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter3_Kime_Phase_Problem.html)
     
 Appendix
 =========
