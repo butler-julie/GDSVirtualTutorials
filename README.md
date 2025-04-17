@@ -9,7 +9,7 @@ Table of contents
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
-   * [Order by Date](#order_by_date)
+   * [Overview](#overview)
    * [Order by Date](#order_by_date)
    * [Order by Topic](#order_by_topic)
    * [Resources](#resources)
