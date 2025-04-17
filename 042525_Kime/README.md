@@ -20,8 +20,8 @@ Overview
 ========
 
 * *Date*: April 25, 2025, 11:30 AM US ET
-* *Presenter*: [https://www.socr.umich.edu/people/dinov/ Ivo D. Dinov (University of Michigan)], co-author Yueyang Shen (Michigan)
-* *Title*: Complex-time (kime) Representation, Statistical Inference, and AI prediction using Repeated Measurement Longitudinal Data
+* *Presenter*: [Ivo D. Dinov (University of Michigan)](https://www.socr.umich.edu/people/dinov/), co-author Yueyang Shen (Michigan)
+* *Title*: [Complex-time (kime) Representation, Statistical Inference, and AI prediction using Repeated Measurement Longitudinal Data](https://spacekime.org)
 * [Register here to get the ZM link sent to your email](https://apsphysics.zoom.us/meeting/register/tkp5ZTRtRFeJNQNgTgO_1A)
 
 Abstract
