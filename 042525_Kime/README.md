@@ -46,8 +46,8 @@ Resources
 
 * [Book: Data Science - Time Complexity, Inferential Uncertainty, and Spacekime Analytics](https://doi.org/10.1515/9783110697827) and [Spacekime/TCIU website](https://www.socr.umich.edu/TCIU/)
 * Electronic `R` Markdown Notebook (Rmd)
-  ** [HTML: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
-  ** [Rmd: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.Rmd)
+    - [HTML: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.html)
+    - [Rmd: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.Rmd)
 * [Strategies for Mapping Repeated Measurement Longitudinal Data (Time-series) to 2D Manifolds (Kimesurfaces)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_MappingLongitudinalTimeseries_2_Kimesurfaces.html)
 * [The Kime-Phase Problem and Kime-Phase Tomography (KPT)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter3_Kime_Phase_Problem.html)
     
