@@ -13,6 +13,7 @@ Table of contents
    * [Overview](#overview)
    * [Abstract](#abstract)
    * [Resources](#resources)
+   * [Contact](#contact)
    * [Appendix](#appendix)
 <!--te-->
 
@@ -31,7 +32,7 @@ Complex-time (kime) representation of repeated measurement longitudinal processe
 
 Content
 =======
-This interactive tutorial will present hands-on the core elements of spacekime analytics. These include
+[This interactive tutorial will present hands-on the core elements of spacekime analytics](https://wiki.socr.umich.edu/index.php/SOCR_APS_GDS_VTS_SK_2025). These include
    
         - Importing of repeated measurement longitudinal data,
         - Numeric (stitching) and analytic (Laplace) kimesurface reconstruction from time-series data,
@@ -45,6 +46,7 @@ Resources
 =========
 
 * Prerequisites
+     - [*Why use R/Rmd to develop this tutorial?*](https://socr.umich.edu/DSPA2/DSPA2_notes/01_Introduction.html#21_Why_use_R)
      - [base `R`](https://R-project.org)
      - [`RStudio`](https://posit.co/download/rstudio-desktop/)
      - [appropriate `R` packages](https://cran.r-project.org/web/packages/available_packages_by_name.html), e.g., [TCIU package](https://cran.r-project.org/web/packages/TCIU/index.html)
@@ -59,7 +61,11 @@ Resources
     - [Rmd: TCIU Basic Spacekime Predictive Analytics](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_Basic_SpacekimePredictiveAnalytics.Rmd)
 * [Strategies for Mapping Repeated Measurement Longitudinal Data (Time-series) to 2D Manifolds (Kimesurfaces)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter6_TCIU_MappingLongitudinalTimeseries_2_Kimesurfaces.html)
 * [The Kime-Phase Problem and Kime-Phase Tomography (KPT)](https://www.socr.umich.edu/TCIU/HTMLs/Chapter3_Kime_Phase_Problem.html)
-    
+
+Contact
+=======
+* [University of Michigan SOCR Team](https://www.socr.umich.edu/people/), [Ivo D. Dinov](https://www.socr.umich.edu/people/dinov/)
+
 Appendix
 =========
 
