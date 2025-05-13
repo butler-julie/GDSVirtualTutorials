@@ -39,10 +39,15 @@ Order by Date
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
 ## April 11, 2025: [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
-An introduction to the command line tools awk and sed for data analysis.
+An introduction to the command line tools awk and sed for data analysis. View the recording [here](https://youtu.be/yFDLNiSFmcw?si=F9tVVsYT1DAmcI2O).
 
 ## April 25, 2025: [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
-A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems.
+A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems. View the recording [here](https://youtu.be/PVbTOW-JAag?si=mYZ2RB-rLvCdommW).
+
+## May 9, 2025: [Introduction to Unsupervised Learning](050925_UnsupervisedLearning/README.md)
+In this tutorial you will learn about machinle learning and the difference between supervised learning and unsupervised learning. We will explore unsupervised learning and will touch on clustering methods, dimensionality reduction tools, associative learning and generative models. No prior experience is required. View the recording [here](https://youtu.be/0Ecge0SgyUI?si=mHxaAKBJitKuLrKQ).
+
+## May 23, 2025: [Accessing Training Data: Material Data APIs](052325_APIs/README.md)
 
 Order by Topic
 ==============
@@ -50,18 +55,21 @@ Order by Topic
 # Introductory
 
 ## [Intrduction to Awk and Sed](041125_AwkAndSed/README.md)
-An introduction to the command line tools awk and sed for data analysis.
+An introduction to the command line tools awk and sed for data analysis.View the recording [here](https://youtu.be/yFDLNiSFmcw?si=F9tVVsYT1DAmcI2O).
 
 ## [Introduction to Data Science](032825_IntroToDS/README.md)
 An introduction to the field of data science and data science libraries in Python. View the recording [here](https://youtu.be/pj0p_eTVjj0?si=h3KUOunClUI_n_QE).
 
+## [Introduction to Unsupervised Learning](050925_UnsupervisedLearning/README.md)
+In this tutorial you will learn about machinle learning and the difference between supervised learning and unsupervised learning. We will explore unsupervised learning and will touch on clustering methods, dimensionality reduction tools, associative learning and generative models. No prior experience is required. View the recording [here](https://youtu.be/0Ecge0SgyUI?si=mHxaAKBJitKuLrKQ).
+
 # Intermediate
 
 ## [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
-A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems.
+A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems. View the recording [here](https://youtu.be/PVbTOW-JAag?si=mYZ2RB-rLvCdommW).
 
 # Advanced
-## ...
+
 
 Resources
 =========
