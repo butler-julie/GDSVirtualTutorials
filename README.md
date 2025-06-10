@@ -49,6 +49,8 @@ In this tutorial you will learn about machinle learning and the difference betwe
 
 ## May 23, 2025: [Accessing Training Data: Material Data APIs](052325_APIs/README.md)
 
+## June 6, 2025: [Basics of Uncertainty Quantification: Going Beyond Model Accuracy](060625_UncertainityQuantification/README.md)
+
 Order by Topic
 ==============
 
@@ -67,6 +69,8 @@ In this tutorial you will learn about machinle learning and the difference betwe
 
 ## [Intrduction to complex-time (kime) representaiton and spacekime analytics](042525_Kime/README.md)
 A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems. View the recording [here](https://youtu.be/PVbTOW-JAag?si=mYZ2RB-rLvCdommW).
+
+## [Basics of Uncertainty Quantification: Going Beyond Model Accuracy](060625_UncertainityQuantification/README.md)
 
 # Advanced
 
