@@ -1,7 +1,7 @@
 # Physics Informed Neural Networks and Neural Differential Equations
 
 ## Overview
-Presented by: Nina Andrejevic
+Presented by: Nina Andrejevic (Argonne National Laboratory)
 
 Date: June 27, 2025
 
