@@ -51,6 +51,8 @@ In this tutorial you will learn about machinle learning and the difference betwe
 
 ## June 6, 2025: [Basics of Uncertainty Quantification: Going Beyond Model Accuracy](060625_UncertainityQuantification/README.md)
 
+## June 27, 2025: [Physics Informed Neural Networks and Neural Differential Equations](062725_PINNs/README.md)
+
 Order by Topic
 ==============
 
@@ -71,6 +73,9 @@ In this tutorial you will learn about machinle learning and the difference betwe
 A hands-on tutorial on complex-time (kime) representation, statistical inference, and AI prediction based on repeated measurements of high-dimensional data. This space-kime analytics approach blends quantum physics, computational statistics, and AI to tackle difficult observational data forecasting problems. View the recording [here](https://youtu.be/PVbTOW-JAag?si=mYZ2RB-rLvCdommW).
 
 ## [Basics of Uncertainty Quantification: Going Beyond Model Accuracy](060625_UncertainityQuantification/README.md)
+
+## [Physics Informed Neural Networks and Neural Differential Equations](062725_PINNs/README.md)
+A hands-on tutorial introducing two main classes of scientific machine learning (SciML) methods: Neural Ordinary/Partial Differential Equations (ODEs/PDEs) and Physics-Informed Neural Networks (PINNs).
 
 # Advanced
 
