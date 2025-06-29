@@ -52,6 +52,7 @@ In this tutorial you will learn about machinle learning and the difference betwe
 ## June 6, 2025: [Basics of Uncertainty Quantification: Going Beyond Model Accuracy](060625_UncertainityQuantification/README.md)
 
 ## June 27, 2025: [Physics Informed Neural Networks and Neural Differential Equations](062725_PINNs/README.md)
+A hands-on tutorial introducing two main classes of scientific machine learning (SciML) methods: Neural Ordinary/Partial Differential Equations (ODEs/PDEs) and Physics-Informed Neural Networks (PINNs).
 
 Order by Topic
 ==============
