@@ -20,7 +20,6 @@ def _():
     import marimo as mo
     import numpy as np
     import matplotlib.pyplot as plt
-    import seaborn as sns
     from scipy.integrate import solve_ivp
     return mo, np, plt, solve_ivp
 
