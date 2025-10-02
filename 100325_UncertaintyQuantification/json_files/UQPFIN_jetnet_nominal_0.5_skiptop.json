@@ -6,7 +6,7 @@
    "x_mode": "sum",
    "phi_nodes": "100,100,64",
    "f_nodes": "64,100,100",
-   "epochs": 30,
+   "epochs": 300,
    "label": "jetnet_nominal_0.5_skiptop",
    "batch_size": 250,
    "data_loc": "./datasets/",

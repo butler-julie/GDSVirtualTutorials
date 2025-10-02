@@ -6,7 +6,7 @@
    "x_mode": "sum",
    "phi_nodes": "100,100,64",
    "f_nodes": "64,100,100",
-   "epochs": 30,
+   "epochs": 50,
    "label": "topdata_nominal_1.0_baseline",
    "batch_size": 250,
    "data_loc": "./datasets/",
